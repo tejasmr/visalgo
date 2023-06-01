@@ -1,1 +1,3 @@
 # visalgo
+
+Visualize different algorithms
